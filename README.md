@@ -1,11 +1,13 @@
-PassWordZ
-
-https://password-z.com
+PassordZ
 
 If you want to test my App dont froget to run :
 
 npm i;
 expo start --tunnel
+
+Or just go to the WebSite and download the APK for your Android.
+
+https://password-z.com
 
 20 de abril 2023
 
