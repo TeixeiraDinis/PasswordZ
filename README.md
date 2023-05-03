@@ -2,7 +2,10 @@ PassWordZ
 
 https://password-z.com
 
-If you want to test my App dont froget to run : npm i;
+If you want to test my App dont froget to run :
+
+npm i;
+expo start --tunnel
 
 20 de abril 2023
 
